@@ -1,1 +1,0 @@
-box.cfg {listen = 3301;read_only = false;replication = {'username:password@127.0.0.1:3301','username:password@127.0.0.1:3302'}}
